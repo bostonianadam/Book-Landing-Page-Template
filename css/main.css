@@ -1,1 +1,65 @@
+body {
+    margin-top: 120px;
+}
+#main-nav {
+    box-shadow: 2px 2px 5px #ccc;
+    background: #fff;
+}
+.navbar-brand {
+    font-size: 2rem;
+}
+.navbar .nav-item {
+    font-size: 1.4rem;
+    padding-right: 1.4rem;
+}
+#book {
+    position: relative;
+    background: url("../img/bg.jpg") no-repeat fixed center;
+    background-size: cover;
+    min-height: 470px;
+}
+#book .overlay {
+    background: rgba(153, 204, 255, 0.8); /*#99ccff*/
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.social-icons {
+    text-align: left;
+}
+.social-icons a {
+    margin-right: 1rem;
+}
+.social-icons a:nth-last-child(1) {
+    margin-right: 0;
+}
+#txtMessage {
+    height: 70px;
+}
+.footer-col-1 {
+    text-align: left;
+}
+.footer-col-2 {
+    text-align: right;
+}
 
+@media (max-width: 768px) {
+    .social-icons {
+        text-align: center;
+    }
+    .footer-col-1, .footer-col-2 {
+        text-align: center;
+    }
+}
+@media (max-width: 380px) {
+    #book {
+        min-height: 600px;
+    }
+}
+@media (max-width: 320px) {
+    #book .overlay .btn {
+        margin-bottom: 10px;
+    }
+}
