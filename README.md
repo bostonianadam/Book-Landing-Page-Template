@@ -1,6 +1,9 @@
 # Book Landing Page Template
 The Book Landing Page Template by BostonianAdam is a free HTML5/Bootstrap 4 template for everyone.
 
+## Demo
+[hub.bostonianadam.com/templates/book/](https://hub.bostonianadam.com/templates/book/)
+
 ## Built With
 * [VS Code](https://code.visualstudio.com/) - Visual Studio Code editor
 * HTML5
