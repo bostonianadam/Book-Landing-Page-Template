@@ -5,7 +5,6 @@ The Book Landing Page Template by BostonianAdam is a free HTML5/Bootstrap 4 temp
 [hub.bostonianadam.com/templates/book/](https://hub.bostonianadam.com/templates/book/)
 
 ## Built With
-* [VS Code](https://code.visualstudio.com/) - Visual Studio Code editor
 * HTML5
 * [Bootstrap 4](https://getbootstrap.com/)
 * [Font Awesome](https://fontawesome.com/)
